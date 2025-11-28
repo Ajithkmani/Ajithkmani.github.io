@@ -1,0 +1,60 @@
+title: "Dr. Ajith Kuriakose Mani"
+description: "Assistant Professor (Sr.), Mechanical Engineering | Research in Nonlinear Dynamics, Fractional Calculus, Composite Materials"
+baseurl: "" # keep empty for username.github.io
+url: "https://<your-github-username>.github.io"  # Replace with your GitHub Pages URL
+
+# Theme (you can replace with any GitHub Pages supported theme)
+theme: minima
+
+# Markdown & Plugins
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Navigation Links
+nav:
+  - title: "Home"
+    url: /
+  - title: "Education"
+    url: /education.html
+  - title: "Experience"
+    url: /experience.html
+  - title: "Publications"
+    url: /publications.html
+  - title: "Conferences"
+    url: /conferences.html
+  - title: "Teaching & Skills"
+    url: /teaching.html
+  - title: "Awards"
+    url: /awards.html
+  - title: "Workshops"
+    url: /workshops.html
+  - title: "Responsibilities"
+    url: /responsibilities.html
+  - title: "Consultancy"
+    url: /consultancy.html
+  - title: "References"
+    url: /references.html
+
+# Author Information
+author:
+  name: "Dr. Ajith Kuriakose Mani"
+  email: "ajith17mani@gmail.com"
+  affiliation: "Saintgits College of Engineering"
+  location: "Kottayam, Kerala, India"
+
+# Social Links (optional)
+social_links:
+  email: "ajith17mani@gmail.com"
+  github: "<your-github-username>"
+  linkedin: "<your-linkedin-url>"
+
+# Build settings
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
